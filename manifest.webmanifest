@@ -1,7 +1,8 @@
 {
+  "id": "./?app=go-play-2",
   "name": "囲碁 対局室",
   "short_name": "囲碁対局",
-  "start_url": "./",
+  "start_url": "./?app=go-play-2",
   "scope": "./",
   "display": "standalone",
   "background_color": "#0f150f",

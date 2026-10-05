@@ -1,5 +1,5 @@
 // オフラインでも開けるように、ページ本体と外部ライブラリ・フォントをキャッシュする
-const CACHE = 'go-play-v1';
+const CACHE = 'go-play-v2';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', (e) => {
